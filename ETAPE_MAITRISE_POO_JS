@@ -1,0 +1,15 @@
+La programmation orientée objet (POO) en JavaScript comprend plusieurs notions importantes :
+
+    Objets : Les objets sont des entités fondamentales en JavaScript. Ils regroupent des propriétés (variables) et des méthodes (fonctions). Les objets peuvent être créés à partir de classes, de fonctions constructrices ou simplement en utilisant la notation littérale d'objet.
+
+    Classes : À partir de la version ECMAScript 2015 (ES6), JavaScript prend en charge la syntaxe de classe. Les classes sont des modèles pour créer des objets. Elles définissent les propriétés et les méthodes communes à un ensemble d'objets. Les instances d'une classe sont créées à l'aide du mot-clé new.
+
+    Héritage : L'héritage permet de créer des relations entre les classes, où une classe peut hériter des propriétés et des méthodes d'une autre classe. Cela permet de réutiliser le code et d'établir une hiérarchie de classes. En JavaScript, l'héritage se fait en utilisant les prototypes ou la syntaxe extends introduite dans ES6.
+
+    Encapsulation : L'encapsulation consiste à regrouper les données et les méthodes associées dans un objet afin de restreindre l'accès à ces éléments depuis l'extérieur. En JavaScript, cela peut être réalisé en utilisant des variables et des fonctions privées, ainsi qu'en utilisant les conventions de nommage pour indiquer l'accès (public, privé, protégé).
+
+    Polymorphisme : Le polymorphisme permet à des objets de différentes classes d'implémenter des méthodes avec la même signature (nom et paramètres), mais comportant des comportements différents. JavaScript est un langage à typage dynamique, ce qui signifie qu'il supporte le polymorphisme naturellement sans restrictions de types.
+
+    Abstraction : L'abstraction consiste à simplifier la complexité d'un système en se concentrant uniquement sur les aspects pertinents pour un objectif spécifique. En JavaScript, cela peut être réalisé en masquant les détails d'implémentation complexes derrière des interfaces ou des classes abstraites.
+
+    Méthodes statiques : Les méthodes statiques sont des méthodes associées à une classe plutôt qu'à une instance spécifique de la classe. Elles peuvent être appelées directement sur la classe elle-même, sans nécessiter la création d'une instance. Les méthodes statiques sont souvent utilisées pour des fonctionnalités utilitaires ou des opérations qui ne dépendent pas de l'état d'une instance. 
